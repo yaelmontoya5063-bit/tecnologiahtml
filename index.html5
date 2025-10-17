@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html></html>
+<head>
+    <title>la ciencia e inovacion de la tecnologia</title>
+</head>
+<body>
+    <a  name="3 pagina.html"></a>
+    <a href="3 pagina.html#mipag"></a>
+    <h1> <center> la ciencia e inovacion de la tecnologia </center></h1>
+    <h2><li> <a href="#caracter&iacute;sticas de los tel&eacute;fonos inteligentes"> caracter&iacute;sticas de los tel&eacute;fonos inteligentes </a> <h3></h3></li>
+       <h3><a name="caracter&iacute;sticas de los tel&eacute;fonos inteligentes"> caracter&iacute;sticas de los tel&eacute;fonos inteligentes</a></h3> </h2>
+      <p><h4> Un tel&eacute;fono inteligente (o smartphone) es un dispositivo m&oacute;vil que combina las funciones de un tel&eacute;fono celular con las de una computadora port&aacute;til, permitiendo navegar por internet, usar aplicaciones, tomar fotos y videos, reproducir contenido multimedia y comunicarse a trav&eacute;s de redes sociales y correo electr&oacute;nico, todo ello con un sistema operativo avanzado y una interfaz de pantalla t&aacute;ctil.   </p>  </h4>
+    
+      <a href="la ciencia e inovacion tecnologica yael antonio montoya.html">volover al inicio</a><br>
+     <a href="2 pagina.html">volver al anterior subtema</a>
+</body>
+</html>
