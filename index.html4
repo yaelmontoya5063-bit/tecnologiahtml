@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html></html>
+<head>
+    <title>la ciencia e inovacion de la tecnologia</title>
+</head>
+<body>
+    <a  name="2 pagina.html"></a>
+    <a href="2 pagina.html#mipag"></a>
+    <h1> <center> la ciencia e inovacion de la tecnologia </center></h1>
+    <h2><li> <a href="#que ha pasado con la tecnolog&iacute;a estos ultimos tiempos ">que ha pasado con la tecnolog&iacute;a estos ultimos tiempos  </a> <h3></h3></li>
+       <h3><a name="que ha pasado con la tecnolog&iacute;a estos ultimos tiempos "> que ha pasado con la tecnolog&iacute;a estos ultimos tiempos </a></h3> </h2>
+      <p><h4> En los &uacute;ltimos a&ntilde;os, la tecnolog&iacute;a se ha centrado en avances como la Inteligencia Artificial (IA), la computaci&oacute;n en la nube, el Internet de las Cosas (IoT), el 5G, y la rob&oacute;tica, que transforman la comunicaci&oacute;n, la automatizaci&oacute;n, la medicina y el trabajo. Tambi&eacute;n destacan el blockchain, la realidad virtual (RV) y aumentada (RA), la biotecnolog&iacute;a, y la nanotecnolog&ia, marcando una revoluci&oacute;n digital que impacta la econom&iacute;a y la vida cotidiana a nivel global.  </p>  </h4>
+      <a href="3 pagina.html">ultimo subtema</a><br>
+      <a href="la ciencia e inovacion tecnologica yael antonio montoya.html">volover al inicio</a><br>
+     <a href="2 pagina.html">volver al anterior subtema</a>
+</body>
+</html>
