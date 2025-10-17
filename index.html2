@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html></html>
+<head>
+    <title>la ciencia e inovacion de la tecnologia</title>
+</head>
+<body>
+    <a  name="index.html"></a>
+    <a href="index.html#mipag"></a>
+    <h1> <center> la ciencia e inovacion de la tecnologia </center></h1>
+    <h2><li> <a href="#DEFINICION DE INTERNET"> DEFINICION DE INTERNET </a> <h3></h3></li>
+       <h3><a name="DEFINICION DE INTERNET"> DEFINICION DE INTERNET</a></h3> </h2>
+      <p><h4> El t&eacute;rmino Internet se utiliza para hacer referencia a una red de computadoras interconectadas entre s&iacute; a nivel mundial con el objetivo de hacer com&uacute;n informaci&oacute;n de acceso p&uacute;blico. Esta red utiliza un lenguaje en com&uacute;n para
+         la comunicaci&oacute;n entre los dispositivos. </p>  </h4>
+         <a href="3 pagina.html">ultimo subtema  </a> <br>
+      <a href="la ciencia e inovacion tecnologica yael antonio montoya.html">volover al inicio </a> <br>
+     <a href="2 pagina.html">volver al anterior subtema</a>
+</body>
+</html>
